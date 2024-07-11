@@ -1,0 +1,29 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.car{
+    text-align: right;
+    background-image: url(./image/pexels-iamkelvinkul-5689163.jpg);
+    height: 25rem;
+    background-size:contain ;
+    background-repeat: no-repeat;
+    background-color: rgba(159,49,32,255);
+    z-index: -1;
+    
+}
+.header
+{
+   margin-right: 9rem;
+   position: relative;
+   top: 5rem;
+}
+h3,h2,p{
+    text-align: center;
+}
+button
+{
+    margin-right: 40rem;
+}
+
